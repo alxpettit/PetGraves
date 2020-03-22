@@ -4,12 +4,12 @@
 
 Alpha-quality code implementing Pet Graves for Fabric and Minecraft 1.15.2.
 
-Current feature set:
+* Current feature set
     * If a pet dies, it spawns a gravestone.
     * That gravestone... looks kind of like a gravestone. 
     * That's it.
 
-Planned features:
+* Planned features
     * Implement serialization to store entity data in gravestone upon death.
     * Add "wand of life" tool that can bring pets back to life.
     * Some item textures would probably be nice.
