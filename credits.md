@@ -1,1 +1,0 @@
-Special credit to [B0undarybreaker (Meredith Espinosa)](https://github.com/Boundarybreaker) for her [Fabric starter template](https://github.com/CottonMC/FabricStarter) and her willingness to put up with my incessent questions.
