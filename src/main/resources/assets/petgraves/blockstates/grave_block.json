@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "petgraves:block/grave_block"
+    }
+  }
+}

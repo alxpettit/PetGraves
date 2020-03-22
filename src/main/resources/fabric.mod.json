@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "petgraves",
+  "version": "${version}",
+
+  "name": "Fabric Starter",
+  "icon": "assets/starter/icon.png",
+  "description": "Mod allowing you to bring your pets back from the dead",
+  "license": "MIT",
+  "contact": {
+    "sources": "https://minecraft.achu.xyz/petgraves"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "xyz.achu.petgraves.PetGraves"
+    ]
+  },
+  "mixins": [
+    "mixins.petgraves.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0"
+  },
+  "custom": {
+    "modmenu:api": true
+  }
+}
